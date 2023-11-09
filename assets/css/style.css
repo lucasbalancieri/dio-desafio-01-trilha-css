@@ -137,10 +137,6 @@ section {
         width: 800px;
 }
 #professional-challenges h2{
-    /*width: 746px;
-    height: 76px;
-    top: 1577px;
-    left: 347px;*/
     color: #33A8DB;
     font-size: 32px;
     font-weight: 700px;
@@ -153,11 +149,29 @@ section {
 }
 
 #professional-challenges p{
-    /*width: 800px;
-    height: 80px;*/
     color: #FFFFFF;
     font-size: 16px;
     margin: auto;
 }
 
+footer{
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    border-top: 1px solid #33A8DB80;
+    padding: 50px;
+    text-align: center;
+}
 
+footer .dio-logo{
+    width: 250px;
+}
+
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  footer p{
+    color: #FFFFFF;
+    font-size: 16px;
+  }
