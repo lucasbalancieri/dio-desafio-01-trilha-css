@@ -131,3 +131,33 @@ section {
     margin-left: 200px;
     padding-top: 111px;
 }
+
+#professional-challenges{
+        text-align: center;
+        width: 800px;
+}
+#professional-challenges h2{
+    /*width: 746px;
+    height: 76px;
+    top: 1577px;
+    left: 347px;*/
+    color: #33A8DB;
+    font-size: 32px;
+    font-weight: 700px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#professional-challenges img{
+    margin: 32px 0;
+}
+
+#professional-challenges p{
+    /*width: 800px;
+    height: 80px;*/
+    color: #FFFFFF;
+    font-size: 16px;
+    margin: auto;
+}
+
+
