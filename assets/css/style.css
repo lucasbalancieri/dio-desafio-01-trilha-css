@@ -109,3 +109,25 @@ section {
 #course-content .module span{
     color: #33A8DB;
 }
+
+#transform-world{
+    background-image: url(../images/woman-code.png);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    padding-top: 60px;
+    border-bottom: 1px solid #33A8DB80;
+    border-top: 1px solid #33A8DB80;
+}
+
+#transform-world p {
+    width: 244px;
+    height: 141px;
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 40px;
+    text-transform: lowercase;
+    text-shadow: 3px 2px #33A8DB;
+    margin-left: 200px;
+    padding-top: 111px;
+}
